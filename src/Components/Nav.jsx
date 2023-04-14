@@ -5,8 +5,6 @@ const Nav = () => {
   return (
     <div className='Nav'> 
         <img src={Logo} alt="Logo" />
-
-    
             
                  <h4 >Home</h4> 
                  <h4 >Tv Shows</h4>
