@@ -4,11 +4,6 @@ import axios from 'axios'
 
 const Card = () => {
  
-
-
-
-
-
     const [newData,  setnewData] = useState([])
 
     useEffect(() => {
